@@ -18,4 +18,4 @@ def number_mix(string, num)
   end
   array.join
 end
-# hello
+
