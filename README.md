@@ -12,5 +12,5 @@ This is the method which runs the basis of a ROT-13 algorithm, taking a string a
 
 ### interface.rb
 
-This is used to interact with the user, allowing them to customise the rotation value and enter a word or sentence of their choice.
+This is used to interact with the user, allowing them to customise the rotation value (between 1 and 25) and enter a word or sentence of their choice. They will be given the option to either play again or quit.
 
