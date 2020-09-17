@@ -2,8 +2,7 @@
 
 ## Launching the programme 
 
-My program was built with Ruby (version 2.6.5). To launch the program type the below in the terminal:
-```ruby interface.rb```
+My program was built with Ruby (version 2.6.5). To launch the program type ```ruby interface.rb``` in the terminal.
 
 ## Files included
 
